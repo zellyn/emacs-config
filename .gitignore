@@ -1,0 +1,12 @@
+.mc-lists.el
+auto-save-list/
+bookmarks
+eln-cache/
+elpa/
+elpaca/
+ido.last
+init2.org
+projects
+tramp
+transient/
+tree-sitter/
